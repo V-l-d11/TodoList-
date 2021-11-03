@@ -1,0 +1,23 @@
+.input {
+  background-color: rgb(255, 255, 255);
+  width: 250px;
+  height: 25px;
+  border: 0px;
+  border-radius: 2px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.input:focus {
+  outline: 0;
+  outline-offset: 0;
+}
+.btn-1 {
+  margin-left: 10px;
+  border-radius: 2px;
+  background-color: rgb(252, 175, 87);
+  color: rgb(61, 61, 61);
+  font-weight: bold;
+  width: 150px;
+  height: 27px;
+  border: 0px solid #000;
+  margin-bottom: 10px;
+}
